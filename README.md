@@ -3,5 +3,5 @@ I'll be sharing my solutions for the Python learning path on exercism, I'm just 
 | Title | Language | Difficulty |
 |---|---|---|
 | [Currency Exchange](Exercises/Currency-Exchange.py) | Python| Easy |
-|  | Python | Medium (for me)|
+| [Raindrops](Exercises/Raindrops.py) | Python | Medium (for me)|
 | Hard |  Python | Hard |
